@@ -127,7 +127,8 @@ fun PantallaLogin(
                     colors = ButtonDefaults.buttonColors(
                         containerColor = Color(0xFF00ACC1)
                     )
-                ) {
+                )
+                {
                     Text("Crear cuenta", fontSize = 16.sp)
                 }
             }
